@@ -9,7 +9,7 @@ Rules:
 - Gold points in start are 3 times the grid size and +4 gold if you find gold in the world.
 - Each move costs 1 gold point, and shooting an arrow costs 2 gold points.
 - The player can move in four directions (up, down, left, right) and toggle to shoot mode to shoot an arrow (first select the direction and then shoot)to kill the wumpus.
-- The game provides sensory information to the player, such as a breeze in all four-cells(up,left,down,right) of a pit and a stench four cells around wumpus.
+- The game provides sensory information of all four-cells (up-left-fown-right) around the all the subjects in game , to the player, such as a breeze a Pit , glitter for the Gold and stench for the Wumpus.
 - The player wins by killing the wumpus and collecting the gold, and loses if they fall into a pit or are killed by the wumpus or the gold ends.
   
 Steps:
@@ -34,3 +34,4 @@ To run the web version of the game:
 
 
 Thank you for checking out the game, I hope it'll make you have fun and learn some AI concepts along the way. 
+
